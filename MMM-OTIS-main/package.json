@@ -1,0 +1,14 @@
+{
+    "name": "mmm-otis",
+    "version": "1.0.0",
+    "description": "Magic mirror module that takes text as input and responds with machine learning accuracy",
+    "main": "MMM-OTIS.js",
+    "dependencies": {
+        "one-liner-joke": "^1.2.0",
+        "python-shell": "^3.0.0",
+        "word-definition": "^2.1.6"
+    },
+    "devDependencies": {},
+    "author": "",
+    "license": "ISC"
+}

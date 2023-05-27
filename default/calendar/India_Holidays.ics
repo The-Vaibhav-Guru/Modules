@@ -1,0 +1,632 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:India Holidays
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+SUMMARY:New Year's Day
+DTSTART:20220101
+DTEND:20220101
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b68c041667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Makar Sankranti / Pongal
+DTSTART:20220114
+DTEND:20220114
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/pongal.php to know more about Makar Sankranti / Pongal. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b68cee1667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Republic Day
+DTSTART:20220126
+DTEND:20220126
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/republic-day.php to know more about Republic Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b68dba1667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maha Shivaratri
+DTSTART:20220301
+DTEND:20220301
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/maha-shivratri.php to know more about Maha Shivaratri. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b68e861667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holi
+DTSTART:20220318
+DTEND:20220318
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/holi.php to know more about Holi. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b68f5f1667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ugadi / Gudi Padwa
+DTSTART:20220402
+DTEND:20220402
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/ugadi-telugu-new-year.php to know more about Ugadi / Gudi Padwa. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6902d1667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ram Navami
+DTSTART:20220410
+DTEND:20220410
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/ram-navami.php to know more about Ram Navami. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b690f41667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mahavir Jayanti
+DTSTART:20220414
+DTEND:20220414
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/mahavir-jayanti.php to know more about Mahavir Jayanti. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b691bc1667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Friday
+DTSTART:20220415
+DTEND:20220415
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b692871667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Labour Day
+DTSTART:20220501
+DTEND:20220501
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/may-day.php to know more about Labour Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b693641667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eid-ul-Fitar
+DTSTART:20220502
+DTEND:20220502
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about Eid-ul-Fitar. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b694321667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Budhha Purnima
+DTSTART:20220516
+DTEND:20220516
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/budhha-purnima.php to know more about Budhha Purnima. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b695071667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rath Yatra
+DTSTART:20220701
+DTEND:20220701
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/rath-yatra.php to know more about Rath Yatra. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b695d51667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bakri Id / Eid ul-Adha
+DTSTART:20220709
+DTEND:20220709
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Bakri Id / Eid ul-Adha. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b696ad1667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muharram
+DTSTART:20220730
+DTEND:20220730
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/muharram.php to know more about Muharram. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b697821667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raksha Bandhan
+DTSTART:20220811
+DTEND:20220811
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/raksha-bandhan.php to know more about Raksha Bandhan. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6985a1667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Independence Day
+DTSTART:20220815
+DTEND:20220815
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/independence-day.php to know more about Independence Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b699331667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Janmashtami
+DTSTART:20220819
+DTEND:20220819
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/janmashtami.php to know more about Janmashtami. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b69a091667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vinayaka Chaturthi
+DTSTART:20220831
+DTEND:20220831
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/ganesh-chaturthi.php to know more about Vinayaka Chaturthi. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b69af71667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onam
+DTSTART:20220908
+DTEND:20220908
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/onam.php to know more about Onam. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b69bd71667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathatma Gandhi Jayanti
+DTSTART:20221002
+DTEND:20221002
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/gandhi-jayanti.php to know more about Mathatma Gandhi Jayanti. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b69cb81667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dussehra / Dasara
+DTSTART:20221005
+DTEND:20221005
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/dussehra.php to know more about Dussehra / Dasara. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b69d9f1667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milad un Nabi
+DTSTART:20221007
+DTEND:20221007
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/milad-un-nabi.php to know more about Milad un Nabi. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b69e7e1667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diwali / Deepavali
+DTSTART:20221024
+DTEND:20221024
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/diwali.php to know more about Diwali / Deepavali. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b69f651667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guru Nanak's Birthday
+DTSTART:20221108
+DTEND:20221108
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/sikh/guru-nanak-birthday.php to know more about Guru Nanak's Birthday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6a04b1667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christmas
+DTSTART:20221225
+DTEND:20221225
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6a12f1667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Year's Day
+DTSTART:20230101
+DTEND:20230101
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6a2171667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Makar Sankranti / Pongal
+DTSTART:20230114
+DTEND:20230114
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/pongal.php to know more about Makar Sankranti / Pongal. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6a3861667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Republic Day
+DTSTART:20230126
+DTEND:20230126
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/republic-day.php to know more about Republic Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6a4bf1667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holi
+DTSTART:20230308
+DTEND:20230308
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/holi.php to know more about Holi. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6a5b61667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maha Shivaratri
+DTSTART:20230318
+DTEND:20230318
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/maha-shivratri.php to know more about Maha Shivaratri. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6a6c51667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ugadi / Gudi Padwa
+DTSTART:20230322
+DTEND:20230322
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/ugadi-telugu-new-year.php to know more about Ugadi / Gudi Padwa. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6a7be1667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ram Navami
+DTSTART:20230330
+DTEND:20230330
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/ram-navami.php to know more about Ram Navami. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6a9251667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mahavir Jayanti
+DTSTART:20230404
+DTEND:20230404
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/mahavir-jayanti.php to know more about Mahavir Jayanti. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6aa3b1667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Friday
+DTSTART:20230407
+DTEND:20230407
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6abb51667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eid-ul-Fitar
+DTSTART:20230422
+DTEND:20230422
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about Eid-ul-Fitar. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6ad221667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Labour Day
+DTSTART:20230501
+DTEND:20230501
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/may-day.php to know more about Labour Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6ae2c1667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Budhha Purnima
+DTSTART:20230505
+DTEND:20230505
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/budhha-purnima.php to know more about Budhha Purnima. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6af3f1667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rath Yatra
+DTSTART:20230620
+DTEND:20230620
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/rath-yatra.php to know more about Rath Yatra. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6b0991667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bakri Id / Eid ul-Adha
+DTSTART:20230629
+DTEND:20230629
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Bakri Id / Eid ul-Adha. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6b1a31667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muharram
+DTSTART:20230728
+DTEND:20230728
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/muharram.php to know more about Muharram. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6b2dc1667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Independence Day
+DTSTART:20230815
+DTEND:20230815
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/independence-day.php to know more about Independence Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6b41f1667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raksha Bandhan
+DTSTART:20230831
+DTEND:20230831
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/raksha-bandhan.php to know more about Raksha Bandhan. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6b5261667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Janmashtami
+DTSTART:20230907
+DTEND:20230907
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/janmashtami.php to know more about Janmashtami. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6b6631667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vinayaka Chaturthi
+DTSTART:20230919
+DTEND:20230919
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/ganesh-chaturthi.php to know more about Vinayaka Chaturthi. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6b7881667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milad un Nabi
+DTSTART:20230927
+DTEND:20230927
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/milad-un-nabi.php to know more about Milad un Nabi. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6b8501667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onam
+DTSTART:20230929
+DTEND:20230929
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/onam.php to know more about Onam. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6b9141667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathatma Gandhi Jayanti
+DTSTART:20231002
+DTEND:20231002
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/gandhi-jayanti.php to know more about Mathatma Gandhi Jayanti. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6b9db1667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dussehra / Dasara
+DTSTART:20231024
+DTEND:20231024
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/dussehra.php to know more about Dussehra / Dasara. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6baa31667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diwali / Deepavali
+DTSTART:20231112
+DTEND:20231112
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/diwali.php to know more about Diwali / Deepavali. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6bb661667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guru Nanak's Birthday
+DTSTART:20231127
+DTEND:20231127
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/sikh/guru-nanak-birthday.php to know more about Guru Nanak's Birthday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6bc2d1667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christmas
+DTSTART:20231225
+DTEND:20231225
+LOCATION:India
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:636a0a0b6bcfb1667893771@calendarlabs.com
+DTSTAMP:20221108T074931Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
